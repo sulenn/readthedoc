@@ -10,6 +10,8 @@ Welcome to sulenn's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   go-sdk/api.md
+
 
 
 Indices and tables
@@ -18,3 +20,7 @@ Indices and tables
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
+
+go-sdk
+==================
+go-sdk/api.md
